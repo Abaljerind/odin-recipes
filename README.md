@@ -1,0 +1,1 @@
+This is my first project while I learn frontend developer on The Odin Project. The title of this project is odin-recipes. It only consist of simple HTML from what I've learned from The Odin Project in HTML Foundations lesson. I will revisit this project later in the future to style it up with CSS.
